@@ -1,4 +1,4 @@
-# 🔐 Basic Text Encoder and Decoder (Java)
+# 🔐 Basic Text Encoder and Decoder (Java) & Java To-Do List Application
 ## 📌 Overview
 
 This project is a simple Java-based Caesar Cipher implementation that allows users to encode and decode messages using a shift-based cipher.
@@ -33,19 +33,55 @@ BasicTextEncoderDecoder/
 │── TextEncoderDecoder.java   # Main Java program
 │── README.md                 # Project documentation
 
+
+
+# Java To-Do List Application
+
+## A simple **console-based To-Do List application** written in **Java**.  
+This project allows users to **add, view, mark as completed, and delete tasks**.  
+It uses **UTF-8 encoding** so that completed tasks can be displayed with a ✔ (tick mark).
+
+---
+
+## 🚀 Features
+- ➕ Add new tasks  
+- 📋 View all tasks  
+- ✔ Mark tasks as completed  
+- ❌ Delete tasks  
+- 💾 Saves tasks in memory (can be extended to use file/database storage)  
+
+---
+
+## 🛠️ Technologies Used
+- **Java (JDK 8 or later)**
+- Console-based (No external libraries)
+
+---
+
+## 📂 Project Structure
+ToDoList/
+│── src/
+│ ├── ToDoApp.java
+│── README.md
+
 ## 🚀 How to Run the Program
 
 Clone this repository:
 
 git clone (https://github.com/MEGAVARSHINI2004/Vaultofcodes_Internship.git)
-cd BasicTextEncoderDecoder
 
+cd BasicTextEncoderDecoder
+cd ToDolist
 
 Compile the Java file:
 
 javac TextEncoderDecoder.java
+javac ToDoListApp.java
 
 
 Run the program:
 
 java TextEncoderDecoder
+java ToDoListApp
+
+
