@@ -37,7 +37,7 @@ BasicTextEncoderDecoder/
 
 Clone this repository:
 
-git clone https://github.com/MEGAVARSHINI2004/TextEncoderDecoder.git
+git clone (https://github.com/MEGAVARSHINI2004/Vaultofcodes_Internship.git)
 cd BasicTextEncoderDecoder
 
 
